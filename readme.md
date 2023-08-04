@@ -1,9 +1,6 @@
 Classification models for predicting the bioactivity of pan-TRK inhibitors and SAR analysis
 This repository contains the source code and the data.
 
-Graphical abstract
-
-
 Setup and dependencies
 Dependencies:
 python 3.7
